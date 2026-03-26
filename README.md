@@ -14,7 +14,7 @@ A React Native app for creating and viewing notes with location. Notes are store
 - **FABICON:** Floating action button to create a new note.
 - **Note screen:** Date the default is for today, title, body, Save, and Delete. On Save, the current device location is attached to the note.
 - **Data:** Stored in Firestore; list and map refresh when returning to the screen or after saving/deleting.
-- **Image Attachment (Bonus):** Supports attaching images via camera or gallery. Images are compressed and stored as Base64 strings directly within Firestore documents, ensuring seamless data retrieval and eliminating the need for external storage configurations for this MVP.
+- **Image Attachment:** Supports attaching images via camera or gallery. Images are compressed and stored as Base64 strings directly within Firestore documents, ensuring seamless data retrieval and eliminating the need for external storage configurations for this MVP.
 
 ## Tech Stack
 
